@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\bin\Debug\net6.0\Method homework.exe
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\bin\Debug\net6.0\Method homework.deps.json
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\bin\Debug\net6.0\Method homework.runtimeconfig.json
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\bin\Debug\net6.0\Method homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\bin\Debug\net6.0\Method homework.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\refint\Method homework.dll
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.pdb
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\Method homework.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\homework\c#\Method , Class practices\Method homework\Method homework\obj\Debug\net6.0\ref\Method homework.dll
